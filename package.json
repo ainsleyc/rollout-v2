@@ -1,0 +1,30 @@
+{
+  "name": "rollout-v2",
+  "description": "Rollout v2.x for nodejs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ainsleyc/rollout-v2",
+  "bugs": "https://github.com/ainsleyc/rollout-v2/issues",
+  "license": "MIT",
+  "main": "lib/rollout.js",
+  "author": {
+    "name": "Ainsley Chong",
+    "email": "Ainsley.Chong@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ainsleyc/rollout-v2"
+  },
+  "keywords":[],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-jshint": "^1.8.4",
+    "gulp-mocha": "^1.1.0",
+    "coveralls": "^2.11.1",
+    "should": "^4.0.4",
+    "jshint-stylish": "^0.4.0",
+    "gulp-load-plugins": "^0.6.0",
+    "gulp-plumber": "^0.6.5",
+    "redis": "0.12.x"
+  }
+}
