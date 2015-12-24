@@ -1,7 +1,7 @@
 {
   "name": "rollout-v2",
   "description": "Rollout v2.x for nodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/ainsleyc/rollout-v2",
   "bugs": "https://github.com/ainsleyc/rollout-v2/issues",
   "license": "MIT",
